@@ -10,7 +10,7 @@ const Footer = () => {
       mt="-20rem"
       clipPath="polygon(0 43%, 100% 0, 100% 100%, 0% 100%)"
     >
-      <Text>Copyright @ Md.Usman Ansari</Text>
+      <Text>Copyright @ Anil Sahu</Text>
     </Box>
   );
 };

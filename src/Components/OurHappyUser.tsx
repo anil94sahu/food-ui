@@ -62,7 +62,7 @@ const OurHappyUser = () => {
             />
           </GridItem>
           <GridItem>
-            <Heading>Md Usman Ansari</Heading>
+            <Heading>Anil Sahu</Heading>
             <Text fontSize="md" fontWeight={600} mt={2} mb={6}>
               <Box as="span" color="gray.500">
                 Location:
